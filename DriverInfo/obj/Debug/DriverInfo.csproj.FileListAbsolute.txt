@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\bin\Debug\DriverInfo.exe.config
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\bin\Debug\DriverInfo.exe
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\bin\Debug\DriverInfo.pdb
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\obj\Debug\DriverInfo.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\obj\Debug\DriverInfo.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\obj\Debug\DriverInfo.exe
+C:\Users\Администратор\source\repos\DriverInfo\DriverInfo\obj\Debug\DriverInfo.pdb
